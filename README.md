@@ -1,0 +1,2 @@
+# law-firm-management-debug-dashboard-and-log-analyzer-vs-code-extension
+Your law firm's custom software crashes in production, but you're buried in incomprehensible logs and scattered error reports. The Law Firm Management Debug Dashboard and Log Analyzer VS Code Extension transforms debugging chaos into clarity—giving you real-time visibility into errors that impact your firm's operations, all without leaving your cod
